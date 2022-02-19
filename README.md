@@ -1,4 +1,5 @@
-# tarea2_cdp
+# Tarea #2. Ciencia de Datos en Python
+---
 ## Estuardo J. Diaz Garcia
 En este repositorio se encuentra un Jupyter Notebook con la información sobre Git
 
